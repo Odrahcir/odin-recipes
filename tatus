@@ -1,0 +1,29 @@
+[33mcommit c8675f55ecb4175844ecb705a919ce5934ff83b3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Odracir <riqui2012@gmail.com>
+Date:   Fri Apr 8 11:11:58 2022 -0500
+
+    Added new index file for the main page
+
+[33mcommit 84fef6c6e3c96efe16b8c91edf9acb317334ed0f[m
+Author: Odrahcir <102938736+Odrahcir@users.noreply.github.com>
+Date:   Fri Apr 8 00:27:29 2022 -0500
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit 0460edd6e325d3455625c32c75563bc949a79c59[m
+Author: Odracir <riqui2012@gmail.com>
+Date:   Thu Apr 7 23:41:52 2022 -0500
+
+    Pushed recipe list and added gelatina and mac and cheese recipe
+
+[33mcommit fe2d3128f658fdea139d25182c4dcc5356c05a2a[m
+Author: Odracir <riqui2012@gmail.com>
+Date:   Thu Apr 7 17:38:05 2022 -0500
+
+    Updated readme file to include new info
+
+[33mcommit 4320b1ede1663b2068e65705013d8ad67b33b45a[m
+Author: Odrahcir <102938736+Odrahcir@users.noreply.github.com>
+Date:   Thu Apr 7 17:27:37 2022 -0500
+
+    Initial commit
